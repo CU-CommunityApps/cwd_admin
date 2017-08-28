@@ -1,7 +1,7 @@
 {
     "name": "cubear/cwd_admin",
     "description": "Light enhancements for the default Drupal admin theme.",
-    "type": "project",
+    "type": "drupal-custom-theme",
     "license": "GPL-2.0+",
     "authors": [
         {

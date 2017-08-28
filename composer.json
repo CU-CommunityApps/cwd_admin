@@ -1,6 +1,6 @@
 {
     "name": "cubear/cwd_admin",
-    "description": "Light enhancements for the default Drupal admin theme.",
+    "description": "Light enhancements for the default Drupal admin theme; from Cornell University CIT-CD.",
     "type": "drupal-custom-theme",
     "license": "GPL-2.0+",
     "authors": [

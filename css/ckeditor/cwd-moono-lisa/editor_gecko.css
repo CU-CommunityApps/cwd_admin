@@ -3,7 +3,7 @@
   width: 280px !important;
   height: 360px !important;
 }
-.cke_button__image_embed_icon {
+.cke_button__image_embed_icon, .cke_button__images_icon {
   background-image: url('../images/image.svg') !important;
   background-position: center center !important;
 }
@@ -14,6 +14,9 @@
 }
 .cke_button_disabled + .cke_button .cke_button_icon, .cke_button_disabled + .cke_button + .cke_button .cke_button_icon {
   opacity: 0.3; /* bug fix for Entity Embed generated buttons */
+}
+.cke_combo::after, .cke_toolgroup a.cke_button:last-child::after, .cke_toolgroup a.cke_button.cke_button_disabled:hover:last-child::after {
+  border-right: 1px solid #dadada !important;
 }
 
 /*

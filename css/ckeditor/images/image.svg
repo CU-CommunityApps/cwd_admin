@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="28px" viewBox="0 0 32 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>image</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="56.5567493%" y1="-7.60944321%" x2="56.5567493%" y2="106.421452%" id="linearGradient-1">
+            <stop stop-color="#484848" offset="0%"></stop>
+            <stop stop-color="#424242" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M3e-07,0.0001 L3e-07,27.4286714 L32.0000003,27.4286714 L32.0000003,0.0001 L3e-07,0.0001 Z M2.28571459,2.28581429 L29.714286,2.28581429 L29.714286,19.6429571 L23.0714289,11.4286714 L16.0000003,20.5715286 L9.14285744,16.0001 L2.28571459,25.1429571 L2.28571459,2.28581429 Z M8.0000003,4.57152857 C6.10644601,4.57152857 4.57142887,6.10654571 4.57142887,8.0001 C4.57142887,9.89363143 6.10644601,11.4286714 8.0000003,11.4286714 C9.89353173,11.4286714 11.4285717,9.89363143 11.4285717,8.0001 C11.4285717,6.10654571 9.89353173,4.57152857 8.0000003,4.57152857 Z" id="image" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+    </g>
+</svg>

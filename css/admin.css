@@ -37,7 +37,7 @@
 	margin: 10px 10px 4px 0;
 	display: inline-block;
 }
-.entities-list .rendered-entity .field--name-field-media-image, .entities-list .rendered-entity .field--name-field-video-embed-reference {
+.entities-list .rendered-entity .field--name-field-media-image, .entities-list .rendered-entity .field--name-field-video-embed-reference, .entities-list .rendered-entity .field--name-field-media-file {
 	float: left;
 	margin-right: 30px;
 }

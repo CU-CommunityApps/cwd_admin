@@ -112,3 +112,6 @@
 .ui-autocomplete.ui-menu .ui-state-focus, .ui-autocomplete.ui-menu .ui-state-active {
 	margin-left: 0;
 }
+button.cd-expand-all{
+	float: right;
+}

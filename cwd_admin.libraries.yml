@@ -7,3 +7,8 @@ global-styling:
       fonts/material-design-iconic-font.min.css: {}
   js:
     js/admin.js: {}
+    js/paragraph_expand.js: {}
+  dependencies:
+    - core/jquery
+    - core/drupalSettings
+    - core/jquery.once

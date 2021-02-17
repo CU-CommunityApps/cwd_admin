@@ -7,7 +7,7 @@
   background-image: url('../images/image.svg') !important;
   background-position: center center !important;
 }
-.cke_button__video_embed_icon {
+.cke_button__video_embed_icon, .cke_button__videos_icon {
   background-image: url('../images/video.svg') !important;
   background-position: center 0 !important;
   margin-top: 0 !important;

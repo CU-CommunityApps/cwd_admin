@@ -5,7 +5,6 @@
 		attach: function (context, settings) {
 			if (typeof CKEDITOR !== "undefined") {
 				CKEDITOR.dtd.$removeEmpty.span = 0;
-				CKEDITOR.dtd.$removeEmpty.p = 1;
 				CKEDITOR.config.fillEmptyBlocks = false;
 				CKEDITOR.config.basicEntities = false;
 				CKEDITOR.config.removePlugins = 'pastefromword';
